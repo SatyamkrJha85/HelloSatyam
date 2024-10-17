@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/github/license/SatyamkrJha85/SattuAnim)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.1-blue.svg)](https://jitpack.io/#SatyamkrJha85/SattuAnim)
 
-**SattuAnim** is a Jetpack Compose library that provides customizable and animated profile images with seamless transitions. This library enables users to add, modify, and animate images in a fun and engaging way, making it perfect for apps requiring user profile customizations.
+**HelloSatyam** is a Jetpack Compose library that provides customizable and animated profile images with seamless transitions. This library enables users to add, modify, and animate images in a fun and engaging way, making it perfect for apps requiring user profile customizations.
 
 ## 📱 Features
 
