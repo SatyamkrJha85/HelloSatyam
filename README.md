@@ -35,7 +35,7 @@ allprojects {
 Add the dependency in your module's build.gradle file:
 ```
 dependencies {
-    implementation 'com.github.SatyamkrJha85:SattuAnim:1.1'
+    implementation 'com.github.SatyamkrJha85:HelloSatyam:1.1'
 }
 ```
 ###📖 Usage
